@@ -1,0 +1,14 @@
+{
+  "name": "req-cookie",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cookie": "~0.1.2"
+  },
+  "author": {
+    "name" : "Myles Byrne",
+    "email" : "myles@myles.id.au"
+  },
+  "license": "MIT"
+}
