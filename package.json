@@ -1,7 +1,7 @@
 {
   "name": "req-cookie",
   "version": "0.1.0",
-  "description": "",
+  "description": "Gets and sets the value of a cookie on a request",
   "main": "index.js",
   "dependencies": {
     "cookie": "~0.1.2"

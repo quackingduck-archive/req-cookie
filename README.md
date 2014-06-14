@@ -1,4 +1,4 @@
-Get's and sets the value of a cookie on a request
+Gets and sets the value of a cookie on a request
 
 E.g.
 
