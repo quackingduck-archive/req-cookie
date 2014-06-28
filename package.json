@@ -1,14 +1,14 @@
 {
   "name": "req-cookie",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Gets and sets the value of a cookie on a request",
   "main": "index.js",
   "dependencies": {
     "cookie": "~0.1.2"
   },
   "author": {
-    "name" : "Myles Byrne",
-    "email" : "myles@myles.id.au"
+    "name": "Myles Byrne",
+    "email": "myles@myles.id.au"
   },
   "license": "MIT"
 }
